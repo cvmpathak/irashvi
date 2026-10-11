@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Irashvi placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F0E5"/>
+      <stop offset="100%" stop-color="#E7DFCF"/>
+    </linearGradient>
+    <linearGradient id="pot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#B96945"/>
+      <stop offset="100%" stop-color="#9A5436"/>
+    </linearGradient>
+    <linearGradient id="lid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2B2D28"/>
+      <stop offset="100%" stop-color="#1E201C"/>
+    </linearGradient>
+    <linearGradient id="label" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F0E5"/>
+      <stop offset="100%" stop-color="#EDE6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="400" cy="540" rx="240" ry="14" fill="rgba(38,60,43,0.10)"/>
+  <rect x="270" y="220" width="260" height="290" rx="18" fill="url(#pot)"/>
+  <rect x="260" y="200" width="280" height="40" rx="12" fill="url(#lid)"/>
+  <rect x="260" y="195" width="280" height="14" rx="6" fill="#1B2A1F"/>
+  <rect x="312" y="270" width="176" height="130" rx="10" fill="url(#label)" stroke="rgba(38,60,43,0.18)"/>
+  <text x="400" y="320" font-family="Georgia, serif" font-size="22" text-anchor="middle" fill="#263C2B" letter-spacing="3">IRASHVI</text>
+  <line x1="340" y1="338" x2="460" y2="338" stroke="#B7B98A" stroke-width="1.5"/>
+  <text x="400" y="368" font-family="Inter, sans-serif" font-size="13" text-anchor="middle" fill="#2B2D28">goodness, thoughtfully packed</text>
+  <text x="400" y="386" font-family="Inter, sans-serif" font-size="11" text-anchor="middle" fill="#5A5D55">DEMO PACK · 250 g</text>
+</svg>

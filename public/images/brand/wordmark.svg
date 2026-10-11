@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240" role="img" aria-label="Irashvi wordmark">
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B7B98A"/>
+      <stop offset="100%" stop-color="#263C2B"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(40, 30)">
+    <!-- Botanical mark: simple leaf -->
+    <path d="M0 100 Q 60 0 180 30 Q 200 100 90 180 Q 0 160 0 100 Z" fill="url(#leaf)" opacity="0.92"/>
+    <path d="M30 120 Q 110 50 170 60" stroke="#F5F0E5" stroke-width="2" fill="none" opacity="0.7"/>
+  </g>
+  <text x="260" y="130" font-family="Georgia, serif" font-size="64" fill="#263C2B" letter-spacing="6">IRASHVI</text>
+  <text x="262" y="170" font-family="Inter, sans-serif" font-size="13" fill="#2B2D28" letter-spacing="4">GOODNESS · THOUGHTFULLY · PACKED</text>
+</svg>

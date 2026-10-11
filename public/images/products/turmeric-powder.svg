@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-label="Turmeric Powder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F0E5"/>
+      <stop offset="100%" stop-color="#E7DFCF"/>
+    </linearGradient>
+    <linearGradient id="pot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E0A98A"/>
+      <stop offset="100%" stop-color="#B96945"/>
+    </linearGradient>
+    <linearGradient id="pot2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3F5A47"/>
+      <stop offset="100%" stop-color="#263C2B"/>
+    </linearGradient>
+    <linearGradient id="lid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2B2D28"/>
+      <stop offset="100%" stop-color="#1E201C"/>
+    </linearGradient>
+    <linearGradient id="label" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F0E5"/>
+      <stop offset="100%" stop-color="#EDE6D4"/>
+    </linearGradient>
+    <radialGradient id="grain" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="rgba(38,60,43,0.08)"/>
+      <stop offset="100%" stop-color="rgba(38,60,43,0)"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="url(#bg)"/>
+  <rect width="1000" height="1000" fill="url(#grain)"/><ellipse cx="500" cy="712.0" rx="130.0" ry="14" fill="rgba(38,60,43,0.12)"/><rect x="340.0" y="310.0" width="320" height="40" rx="14" fill="url(#lid)"/><rect x="350.0" y="340.0" width="300" height="360" rx="20" fill="url(#pot)"/><rect x="390.0" y="455.2" width="220" height="160" rx="10" fill="url(#label)" stroke="rgba(38,60,43,0.18)"/>
+    <text x="500" y="515.2" font-family="Georgia, serif" font-size="28" text-anchor="middle" fill="#263C2B" letter-spacing="4">IRASHVI</text>
+    <line x1="420.0" y1="535.2" x2="580.0" y2="535.2" stroke="#B7B98A" stroke-width="1.5"/>
+    <text x="500" y="565.2" font-family="Inter, sans-serif" font-size="14" text-anchor="middle" fill="#2B2D28">Stone-ground</text>
+    <text x="500" y="585.2" font-family="Inter, sans-serif" font-size="11" text-anchor="middle" fill="#5A5D55" letter-spacing="2">DEMO PACK · DEMO</text></svg>
